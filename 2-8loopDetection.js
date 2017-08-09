@@ -1,3 +1,5 @@
+//i
+
 var LinkedList = () => {
   var list = {};
   list.head = null;
